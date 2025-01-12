@@ -227,16 +227,11 @@ body{
     }
 
     .form-box{
-        border-radius: 30px;
         height: 100%;
-        border-radius: 0px;
-        
-        
     }
 
     .png-box{
        display: none;
-       
     }
     
 }
